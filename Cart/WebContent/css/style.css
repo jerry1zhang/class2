@@ -1,0 +1,18 @@
+
+.table{
+	border:solid 1px;
+	border-collapse: collapse;
+}
+.table>thead>tr th{
+	border:solid 2px;
+}
+.table>tbody>tr td{
+	border:solid 1px;
+}
+.table>tbody>tr>.jijia{
+	color: red;
+}
+.table>tbody>tr>.zhongjia{
+	color: red;
+	 float: right;
+}
